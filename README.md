@@ -1,4 +1,4 @@
-(https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif
 
 
 ## 🌐 Socials:
@@ -14,4 +14,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Developertaposroy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
