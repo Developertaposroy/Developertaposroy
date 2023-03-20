@@ -1,4 +1,4 @@
-[![Behance](https://technofaq.org/wp-content/uploads/2019/07/pert-chart-header@2x-620x350.png)](https://behance.net/developertapos) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developertapos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developertapos) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/developertapos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@developertapos) 
+[![Behance](https://technofaq.org/wp-content/uploads/2019/07/pert-chart-header@2x-620x350.png)]
 
 
 ## 🌐 Socials:
