@@ -1,4 +1,4 @@
-[![Behance](https://technofaq.org/wp-content/uploads/2019/07/pert-chart-header@2x-620x350.png)]
+![Behance](https://technofaq.org/wp-content/uploads/2019/07/pert-chart-header@2x-620x350.png)
 
 
 ## 🌐 Socials:
