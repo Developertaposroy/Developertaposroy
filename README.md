@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://image.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg" alt="developertaposroy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developertaposroy" alt="developertaposroy" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
